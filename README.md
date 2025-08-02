@@ -83,8 +83,6 @@ Daniel Yaw Dadzie
 
 🌍 Ghana 
 
-📧 Email: ddadzie120@gmail.com
-
-🔗 GitHub: Daniel-Dadzie
-
-🔗 LinkedIn: Daniel Yaw Dadzie
+- 📧 Email: [ddadzie120@gmail.com](mailto:ddadzie120@gmail.com)  
+- 🔗 GitHub: [Daniel-Dadzie](https://github.com/Daniel-Dadzie)  
+- 🔗 LinkedIn: [Daniel Yaw Dadzie](https://www.linkedin.com/in/daniel-yaw-dadzie-87b113298)
